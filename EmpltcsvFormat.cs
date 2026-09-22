@@ -1,4 +1,3 @@
-```csharp
 using CsvHelper;
 using MsWeb.Databases.Lvedbases;
 using System.Globalization;
@@ -94,4 +93,4 @@ namespace MsWeb.Report.Formats
         }
     }
 }
-```
+
